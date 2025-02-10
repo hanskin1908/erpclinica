@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\core",
+    "\\src\\app\\modules",
+    "\\src\\app\\modules\\auth",
+    "\\src\\app\\modules\\pacientes",
+    "\\src\\app\\modules\\pacientes\\pacientes",
+    "\\src\\app\\modules\\usuarios",
+    "\\src\\app\\shared"
+  ],
+  "SelectedNode": "\\src\\app\\modules\\pacientes\\pacientes\\pacientes.component.ts",
+  "PreviewInSolutionExplorer": false
+}
