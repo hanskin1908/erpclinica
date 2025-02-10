@@ -7,7 +7,7 @@ import { MenuItem } from '../models/menu.model';
 })
 export class MenuService {
   
-  private apiUrl = 'https://localhost:7044/api/menu'; // Ajusta la URL según el backend
+  private apiUrl = 'https://localhost:44349/api/menu'; // Ajusta la URL según el backend
 
   constructor(private http: HttpClient) { }
 
