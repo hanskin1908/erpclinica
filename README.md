@@ -61,7 +61,7 @@ Bienvenido al repositorio del **frontend** de nuestro sistema de gestión clíni
 - **Framework Principal:** Angular 17
 - **Lenguaje:** TypeScript
 - **Gestión de Estados:** RxJS
-- **Estilos:** Angular Material + Tailwind CSS
+- **Estilos:** Angular Material CSS
 - **Autenticación:** JSON Web Token (JWT)
 - **Consumo de API:** HttpClient
 
